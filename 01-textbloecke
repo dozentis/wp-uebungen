@@ -1,0 +1,323 @@
+<!-- wp:paragraph -->
+<p>Neu im Gutenberg Editor ist das Konzept der Blöcke. Statt wie bisher alles in einem großen Eingabefeld einzutragen, sind jetzt alle Inhalte einzelne Komponenten im Beitrag. Diese lassen sich auch individuell gestalten und eröffnen so neue Möglichkeiten in der Erstellung von Beiträgen und Seiten. In dieser Übung lernen wir die Formatierungen des Editors kennen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#cbe7f1;font-size:12px">Zuerst fügen wir vor diesem Absatz ein "Weiterlesen"-Blöck ein.<br>Klicke in die leere Zeile und dann auf das dunkle Plus-Zeichen rechts.<br>Suche nach <strong>meh</strong> und füge mit einem Klick den Mehr-Block ein.<br>Info <a href="https://gutenberg-fibel.de/bloecke/mehr/" target="_blank" rel="noreferrer noopener">gutenberg-fibel.de/bloecke/mehr/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 id="1-zeichenformatierungen-inline-span" style="font-size:32px">1) Zeichenformatierungen (Inline/span)</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="a-schriftschnitt-fett-kursivb-durchgestrichen-unterstreichen-hervorheben" style="background-color:#cbe7f1;font-size:22px">a) Schriftschnitt: Fett - Kursiv<br>b) Durchgestrichen - Unterstreichen - Hervorheben</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><strong>a)</strong> Im Gegensatz zu früheren Webseiten müssen wir zum Beispiel nicht mehr zwei verschiedene Webseiten für den Internet Explorer und einen anderen Browser programmieren.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Hinweis: </strong>Unterstreichen können wir im Block-Editor nur mit dem Tastenkürzel STRG+U</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>b)</strong> Es reicht eine Seite, die - richtig angelegt - sowohl auf verschiedenen Browsern im Netz funktioniert, aber ebenso gut für den Ausdruck oder die Darstellung auf einem Handy geeignet ist. Wohlgemerkt: Eine Seite für alle Formate. Was für eine Erleichterung.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="c-hoch-und-tiefgestellt" style="background-color:#cbe7f1;font-size:22px">c) Hoch- und Tiefgestellt</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>H2O ist eine chemische Verbindung aus den Elementen Sauerstoff (O) und Wasserstoff (H).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Als Potenz geschrieben, z. B. <br>10-9 <em>steht für 10 hoch -9 also 0,000000001</em> oder <br>1011 <em>steht für 10 hoch 11 also 100 Milliarden</em>, werden sie in den Naturwissenschaften zur Darstellung sehr großer oder sehr kleiner positiver Zahlen verwendet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="d-tastatur-eingabe-e-inline-code" style="background-color:#cbe7f1;font-size:22px">d) Tastatur-Eingabe <br>e) Inline-Code</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Hinweis: </strong>Markiere unten im Text die Buchstaben "Ctrl" und "X" "C" "V" einzeln und wende die Tastatur-Eingabe an. (Der Effekt ist erstmal nur leicht zu erkennen)<br><strong>Info</strong>: HTML-Element &lt; kbd > und besseres CSS dafür: <a rel="noreferrer noopener" href="https://wiki.selfhtml.org/wiki/HTML/Textauszeichnung/kbd" target="_blank">wiki.selfhtml.org/wiki/HTML/Textauszeichnung/kbd</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> <strong>d)</strong> Zu den bekanntesten Tastenkombinationen gehören die Befehle Ausschneiden, Kopieren und Einfügen. Diese wurden in Windows und andere Betriebssysteme als Ctrl + X, Ctrl + C und Ctrl + V übernommen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>e) </strong>Und hier markieren wir ab dem Doppelpunkt den Text als<strong> Inline-Code:</strong> h1 { font-size: 1.2em; color: red; } Hier steht dann wieder ein normaler Text.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 id="2-absatzblocke-und-formatierungen" style="font-size:32px">2) Absatzblöcke und Formatierungen</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="a-listen-block-einfugen-und-schreibe-eine-rezeptliste-mit-4-zutaten" style="background-color:#cbe7f1;font-size:22px">a) Listen-Block einfügen und <br>schreibe eine Rezeptliste mit 4 Zutaten</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="b-umwandeln-in-listenblock-mit-nummerierung-und-einzugen" style="background-color:#cbe7f1;font-size:22px">b) Umwandeln in Listenblock mit Nummerierung und Einzügen</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Hinweis:</strong> Man kann mehrere Absätze gleichzeitig markieren und umwandeln. Dazu klicke auf das erste Werkzeug (Block-Typ oder Stil ändern) in der Toolbar des Absatzes.<br><strong>Hinweis2:</strong> Einzelne Zeilen mit (weichen) Umbrüchen in Listen sind durch einem harten Umbruch zu ersetzen, um daraus einen eigenen Listenpunkt zu machen.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Gerade in Deinem Alter ist man ja gesegnet, wenn man noch so witzig schreiben kann wie Du.1<br>Viele Deiner Werberkollegen sind ja schon zu wichtig, um noch Humor zu haben. Du bist da ganz anders.2</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du kannst richtig komisch sein.3<br>Und das, obwohl Du in Deinem sehr langen Leben auch schon viele unangenehme Dinge schreiben musstest.4<br>Dieser Listenpunkt hat einen Einzug4.1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dieser Listenpunkt hat einen Einzug4.2<br>Texte für McDonald's zum Beispiel. Oder kleine Reime für Onkel Norbert.5</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="c-ausrichtungen" style="background-color:#cbe7f1;font-size:22px">c) Ausrichtungen</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p><em>Ich bin Linksbündig:</em> Nein, Du hast es wirklich nicht leicht gehabt. Und dann noch die Selbstdarstellung für Tante Ika. Erinnerst Du Dich? Da hat sich selbst einer wie Du schwergetan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Ich bin Rechtsbündig:</em> Aber Du hast die Situation gemeistert. Weil Du ein Genie bist. Selbst Klinkentexte konntest Du in ein Stück Literaturgeschichte verwandeln.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ic<em>h bin Zentriert: </em>Kein Wunder also, dass Deine Studenten Dich anhimmeln und Dich schon jetzt, zu Deinen Lebzeiten, als den neuen Papst der deutschen Reklame feiern.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><s>Ich könnte ein Blocksatz<strong> sein</strong></s><strong> </strong><strong>(</strong><em>Nicht mehr verfügbar im neuen Block-Editor, nur im klassischen Editor mit Tastenkürzel oder via HTML!)</em>: <br>Denn esse est percipi - Sein ist wahrgenommen werden. Und weil Sie nun schon die Güte haben, mich ein paar weitere Sätze lang zu begleiten, möchte ich diese Gelegenheit nutzen, Ihnen nicht nur als Lückenfüller zu dienen, sondern auf etwas hinzuweisen, das es ebenso verdient wahrgenommen zu werden: Webstandards nämlich.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="d-einfugen-von-umwandeln-in-uberschriften-blockeheadings-1-6" style="background-color:#cbe7f1;font-size:22px">d) Einfügen von / umwandeln in Überschriften-Blöcke<br><em>Headings 1-6</em></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Dieser Absatz möchte oberhalb eine Überschrift sehen mit dem Text "Ich bin eine H1".</strong> Da konnte sich selbst Helmut eine lobende Erwähnung abringen. Und Du weißt ja, wie kritisch er mit Dir immer ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ich bin eine <strong>H2 </strong>mit dem HTML-Anker <em>alfatraining</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Da konnte sich selbst Helmut eine lobende Erwähnung abringen. Und Du weißt ja, wie kritisch er mit Dir immer ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Hinweis</strong>: Block-Eigenschaften (Seitenleiste rechts) unter<strong> Erweitert/HTML-Anker</strong>; später setzen wir einen Link auf diese Sprungmarke. Info: <a rel="noreferrer noopener" href="https://wpfellows.com/de/wordpress-anker-setzen/" target="_blank">wpfellows.com/de/wordpress-anker-setzen/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ich bin eine zentrierte <strong>H3 </strong>mit Hintergrundfarbe</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Hinweis</strong>: Siehe rechte Seitenleiste, Blockeigenschaften im Spoiler Farbeinstellungen</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ich bin eine zentrierte <strong>H4 </strong>mit Hintergrundfarbe und Ausrichtung "Weite Breite"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Da konnte sich selbst Helmut eine lobende Erwähnung abringen. Und Du weißt ja, wie kritisch er mit Dir immer ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ich bin eine zentrierte <strong>H5 </strong>- mit Hintergrundfarbe und Ausrichtung "Gesamte Breite"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Da konnte sich selbst Helmut eine lobende Erwähnung abringen. Und Du weißt ja, wie kritisch er mit Dir immer ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ich bin eine <strong>H6 </strong> und "<strong>Ich bin rot" und "ich bin blau</strong>"</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Da konnte sich selbst Helmut eine lobende Erwähnung abringen. Und Du weißt ja, wie kritisch er mit Dir immer ist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="e-der-block-vorformatiert" style="background-color:#cbe7f1;font-size:22px">e) Der Block "<em>Vorformatiert</em>"</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p id="e-1-die-zeile-unterhalb-markieren-und-umwandeln"><strong>e.1) Die Zeile unterhalb markieren und umwandeln</strong> in Block Vorformatiert</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quelle: https://gutenberg-fibel.de/</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Info:</strong> Der Text im Vorformatiert-Block ist im Monospace Font gehalten und es werden alle Leerzeichen und Zeilen beibehalten, die eingegeben werden.<br>Vorformatiert ist im HTML das pre-Element (Preformated)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p id="e-2-die-6-zeilen-unterhalb-markieren-und-umwandeln"><strong>e.2) Die 6 Zeilen unterhalb markieren und umwandeln</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>/* Ein CSS-Codetext und eine lange Zeile*/<br>p {<br>color: #FF0000;<br>margin-bottom: 1em;<br>}<br>…and heres a line of some really, really, really, really long text, just to see how it is handled and to find out how it overflows;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="f-spezielle-block-editor-formatierungsmoglichkeiten" style="background-color:#cbe7f1;font-size:22px">f) Spezielle Block-Editor Formatierungsmöglichkeiten</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<ul class="has-background" style="background-color:#facdd3;font-size:12px"><li>Block-Einstellungen Absatz (rechte Seitenleiste)<ul><li>Text/Hintergrundfarbe und Linkfarbe ändern</li><li>Typografie (+ bzw 3-Punkte Menü)<ul><li>Größe auf 13px</li></ul><ul><li>Groß/Kleinschreibung auf Kapitälchen</li><li>Design auf Extraleicht</li><li>Zeilenhöhe auf 2</li><li>Zeichenabstand 0,5em  (nicht px)</li></ul></li></ul></li><li>Infos zum Absatzblock: <a href="https://gutenberg-fibel.de/bloecke/absatz/">gutenberg-fibel.de/bloecke/absatz/</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Erstens: wir haben nicht offensiv gespielt. Es gibt keine deutsche Mannschaft spielt offensiv und die Name offensiv wie Bayern. Letzte Spiel hatten wir in Platz drei Spitzen: Elber, Jancka und dann Zickler. <a rel="noreferrer noopener" href="https://gutenberg-fibel.de/bloecke/absatz/" target="_blank">Ich bin ein Linktext</a>. Wir müssen nicht vergessen Zickler. Zickler ist eine Spitzen mehr, Mehmet eh mehr Basler. Ist klar diese Wörter, ist möglich verstehen, was ich hab gesagt? Danke.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="g-block-zitatblock" style="background-color:#cbe7f1;font-size:22px">g) Block Vers</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Info:</strong> Der größte Unterschied zum Absatz: wenn man im Vers-Block Enter drückt, entsteht im Block selbst eine neue Zeile. Beim Absatz entsteht gleich ein ganz neuer Block, außer man erzeugt den neuen Absatz mit Umschalt+Enter.   <a rel="noreferrer noopener" href="https://gutenberg-fibel.de/bloecke/zitat/" target="_blank">gutenberg-fibel.de/bloecke/zitat/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#facdd3;font-size:12px">Absatz unterhalb nach Vers umwandeln </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><em>Hello Dolly</em><br>This is miss Dolly<br>It's so nice to have you back where you belong<br>You're lookin' swell, Dolly<br>I can tell, Dolly<br>You're still glowin', you're still crowin', you're still goin' strong</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="g-block-zitatblock" style="background-color:#cbe7f1;font-size:22px">h) Block Zitatblock</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Info:</strong> Das HTML-Element blockquote (oder HTML Block Quotation Element) gibt an, dass der eingeschlossene Text ein erweiterndes Zitat ist. Normalerweise wird dieses Element als Einrückung dargestellt. Eine URL für die Quelle des Zitats kann mit Hilfe des cite Attributs angegeben werden, während die Quelle eines Textes mit dem Element angegeben werden kann <a rel="noreferrer noopener" href="https://gutenberg-fibel.de/bloecke/zitat/" target="_blank">gutenberg-fibel.de/bloecke/zitat/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#facdd3;font-size:12px">Absatz unterhalb als Zitatblock umwandeln<br>Stil: Groß<br>Quellenangabe: Platon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So wäre denn die Tugend, wie es scheint, eine Gesundheit und Schönheit und Wohlbefinden der Seele, die Schlechtigkeit aber Krankheit und Hässlichkeit und Schwäche.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="g-block-zitatblock" style="background-color:#cbe7f1;font-size:22px">i) Block Pullquote</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Info: </strong>Mit dem Pullquote-Block kannst du eine Zeile deines Textes besonders hervorheben. Im Gegensatz zum Zitat-Block hast du weitere Gestaltungsmöglichkeiten. <a rel="noreferrer noopener" href="https://gutenberg-fibel.de/bloecke/pullquote/" target="_blank">gutenberg-fibel.de/bloecke/pullquote/</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<ul class="has-background" style="background-color:#facdd3;font-size:12px"><li>Einstellungen Pullquote <ul><li>Textfarbe Standard Rot - Hintergrundfarbe Standard Schwarz</li><li>Quellenangabe Sokrates hinzufügen</li><li>Rahmen 5px rot liniert</li><li>Textgröße: 3 (Groß)</li><li>Typografie Design: Leicht</li><li>Ausrichtung: Weite Breite</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Bekommst du eine gute Frau, wirst du glücklich werden; bekommst du eine schlechte, wirst du Philosoph werden.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"32px"}}} -->
+<h2 id="3-hyperlink-sonderzeichen-sonstiges" style="font-size:32px">3) Hyperlink- Sonderzeichen - Sonstiges</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="a-hyperlink-einfugen" style="background-color:#cbe7f1;font-size:22px">a) Hyperlink einfügen</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><li>Hier gibt es viele Plugins die auf WordPress.org verzeichnet sind. <br><em>(Markiere hier den Text "WordPress.org", wähle <strong>Link </strong>aus der Toolbar und verlinke auf die externe URL https://wordpress.org mit der Einstellung "in einem neuen Tab/Fenster öffnen")</em></li><li>Hier verlinke ich intern auf den Beitrag "Hallo Welt". (nutze die Suche)</li><li>Hier verlinke ich intern auf die Seite "Beispiel-Seite". (nutze die Suche)</li><li>Hier verlinke ich intern auf die Kategorie "Allgemein". (nutze die Suche)</li><li>Hier verlinke ich relativ auf die  "Überschrift Alfatraining". <br><em>Anmerkung</em>: Dieses als Link eintragen <strong>#alfatraining</strong></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="b-sonderzeichen-smileys-einfugen" style="background-color:#cbe7f1;font-size:22px">b) Sonderzeichen / Smileys einfügen</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Info: </strong>Sonderzeichen waren im alten Editor per Werkzeug verfügbar, im Block-Editor sind sie es noch nicht, daher fügen wir Emojis (Smileys) und Sonderzeichen folgendermaßen ein:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<ul class="has-background" style="background-color:#efecdc;font-size:12px"><li><strong>Wie füge ich Sonderzeichen ein?</strong><ul><li>Chrome-Browser mit der rechten Maustaste "-> Emojis</li><li>Tastenkombination Windows: [WIN]+[PUNKT]</li><li>Tastenkombination MAC: [CTRL]+[COMMAND]+[Leertaste]</li><li>Sonderzeichen aus einer Liste suchen, herauskopieren und als Text einfügen , z.B.<br><a rel="noreferrer noopener" href="https://de.wiktionary.org/wiki/Hilfe:Sonderzeichen/Tabelle" target="_blank">de.wiktionary.org/wiki/Hilfe:Sonderzeichen/Tabelle</a><br><a rel="noreferrer noopener" href="https://www.vioma.de/de/wiki/tools/html-sonderzeichen/" target="_blank">www.vioma.de/de/wiki/tools/html-sonderzeichen/</a></li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list -->
+<ul><li>Emoji/Smiley einfügen -&gt;</li><li>Gedankenstrich (Halbgeviert) -&gt;</li><li>Ein Halb -&gt;</li><li>Copyright-Zeichen -&gt;</li><li>Rightwards-Arrow (Pfeil nach rechts) -&gt;</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="c-block-classic" style="background-color:#cbe7f1;font-size:22px">c) Block "Classic"</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<ul class="has-background" style="background-color:#facdd3;font-size:12px"><li>Schritte<ul><li>Fügen den "Classic"-Block in die leere Zeile unterhalb ein </li><li>Füge in diesen 2-3 Absätze Blindtext ein.</li><li>Schalte die 2. Werkzeugleiste des Classic-Editors ein (Symbol rechts in der Classic-Toolbar) und entdecke die Werkzeuge (Symbole) die der alte visuelle Editor "Tiny MCE" zu bieten hatte (Standard-Editor bis WordPress 4)</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="d-block-seitenumbruch-einfugen" style="background-color:#cbe7f1;font-size:22px">d) Block Seitenumbruch einfügen</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"color":{"background":"#cbe7f1"},"typography":{"fontSize":"22px"}}} -->
+<h3 class="has-background" id="e-inhalte-einfugen-aus-der-zwischenablage" style="background-color:#cbe7f1;font-size:22px">e) Inhalte einfügen aus der Zwischenablage</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#efecdc"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#efecdc;font-size:12px"><strong>Info:</strong> Im Classic-Editor hätten wir dazu das Werkzeug "Als Text einfügen", aber nicht im neuen Block-Editor. Daher nutzen wir die Tastenkombination des Browsers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#facdd3;font-size:12px"><strong>Formatiertes Einfügen</strong><br>Füge hier unterhalb 2-3 Absätze fremden Textes mit Bild aus einer beliebigen Newsseite "<strong>formatiert</strong>" also mit <strong>STRG+V</strong> ein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"background":"#facdd3"},"typography":{"fontSize":"12px"}}} -->
+<p class="has-background" style="background-color:#facdd3;font-size:12px"><strong>Unformatiertes (Als Text) Einfügen</strong><br>Nun den selben Text hier unterhalb "<strong>unformatiert</strong>" einfügen. Das geht mit der Tastenkombination <strong>STRG+UMSCHALT+V</strong> <em>(oder mit der rechten Maustaste)</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
