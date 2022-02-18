@@ -1,0 +1,34 @@
+<p>Kategorienstruktur unserer Website f&uuml;r kommende Beitr&auml;ge (10 - 15 min)</p>
+<p>Kategorien sind - wie Schlagw&ouml;rter - eine Taxonomie, also ein Ordnungssystem f&uuml;r Beitr&auml;ge!<br />Um neue Kategorien zu erstellen klicken wir im Backend-Men&uuml; auf &bdquo;Beitr&auml;ge/Kategorien&ldquo;</p>
+<p>Erstellen Sie folgende Kategorien mit Kategoriebeschreibungen wie folgt und beachten sie dabei die Kategorie-Hierarchie (Haupt- und Unterkategorien)&nbsp;</p>
+<h2>Kategorie-Hierarchie</h2>
+<ul style="list-style-type: square;">
+<li>Wordpress Blog
+<ul>
+<li>WP Wissen</li>
+<li>WP &Uuml;bungen</li>
+</ul>
+</li>
+<li>Rezepte Blog<br />
+<ul style="list-style-type: square;">
+<li>Deutsche Rezepte</li>
+<li>Mediterrane Rezepte</li>
+<li>Asiatische Rezepte</li>
+</ul>
+</li>
+</ul>
+<h2>Kategoriebeschreibungen</h2>
+<p><strong>WordPress Blog</strong></p>
+<p>WordPress ist eine freie Webanwendung zur Verwaltung der Inhalte einer Website (Texte und Bilder). Sie bietet sich besonders zum Aufbau und zur Pflege eines Weblogs an, da sie jeden Beitrag einer oder mehreren frei erstellbaren Kategorien zuweisen kann und dazu automatisch die entsprechenden Navigationselemente erzeugt. Parallel kann WordPress auch hierarchische Seiten verwalten und gestattet den Einsatz als Content-Management-System (CMS).</p>
+<p><strong>Rezepte Blog</strong></p>
+<p>Sie suchen &lt;em&gt;Rezepte&lt;/em&gt; f&uuml;r leckere Gerichte? Bei uns finden Sie &uuml;ber tolle Rezeptideen &ndash; von einfachen Backrezepten bis zu schnellen Kochrezepten f&uuml;r jeden Anlass und jeden&nbsp; Geschmack. Sie sind alle gepr&uuml;ft und beinhalten genaue N&auml;hrwertangaben.</p>
+<p><strong>WP Wissen</strong></p>
+<p>Plugins &amp; Themes, Tipps &amp; Tricks, FAQs, CSS-Beispiele und Wissenswertes rund um WordPress. Der Funktionsumfang von WordPress l&auml;sst sich beliebig erweitern. Im offiziellen Plugin-Verzeichnis finden sich &uuml;ber 50.000 frei verf&uuml;gbare Erweiterungen und im Themes-Verzeichnis &uuml;ber 5000 kostenfreie Themes</p>
+<p><strong>WP &Uuml;bungen </strong></p>
+<p>&Uuml;bungen, Beispiele und Ergebnisse aus dem Unterricht.</p>
+<p><strong>Deutsche Rezepte</strong></p>
+<p>Eine Liebeserkl&auml;rung an die deutsche K&uuml;che &ndash; weil mit jedem Bissen Erinnerungen wach werden. Auch in Deutschland hat jede Landschaft oder Region ihre typischen Spezialit&auml;ten.</p>
+<p><strong>Mediterrane Rezepte</strong></p>
+<p>Die mediterrane K&uuml;che schmeckt nach sonnengereiftem Gem&uuml;se und Meer. Von Griechenland bis Portugal, von Gambas bis Risotto. Schlemmen Sie wie am Mittelmeer!</p>
+<p><strong>Asiatische Rezepte </strong></p>
+<p>Asiatische K&uuml;che, von Kokossuppe bis Nasi Goreng: Die Gerichte kennt jeder, jeder liebt sie &ndash;&nbsp; wir zeigen, wie sie gelingen.!</p>
